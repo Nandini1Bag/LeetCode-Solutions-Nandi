@@ -1,4 +1,5 @@
-//: find all the numbers of k length whose first half sum equals second half sum example 00 11 22 
+//: leetcode-560 -find all the numbers of k length whose first half sum 
+//equals second half sum example 00 11 22 
 //5445 
 function findEqualSumNumbers(k) {
     const results = [];
